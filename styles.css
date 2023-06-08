@@ -182,6 +182,7 @@ dd {
     padding: 0px 10px;
     color: #fff;
     text-align: center;
+    line-height: 1;
 }
 
 .playlist-info p {
