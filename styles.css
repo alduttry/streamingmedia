@@ -10,7 +10,7 @@ body {
     display: grid;
     min-width: 375px;
     margin: 0 auto;
-    padding: 25px;
+    padding: 0px 25px;
     line-height: 1;
 }
 
@@ -136,7 +136,6 @@ dd {
 .info h3 {
     margin: 0px 10px 0px;
     font-weight: 800;
-    line-height: 1;
 }
 
 .song div {
